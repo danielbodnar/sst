@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "^13",
-    "astro": "^6",
+    "astro": "^7",
     "sst": "file:../../sdk/js"
   },
   "devDependencies": {
